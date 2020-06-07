@@ -73,11 +73,12 @@
 
         
     </div><!--calendario -->
+    <!--
     <pre>
-        <?php
+        php
             var_dump($calendario);
         ?>
-    </pre>
+    </pre> -->
 
     <?php
         $conn->close();
